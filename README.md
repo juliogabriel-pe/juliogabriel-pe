@@ -20,4 +20,5 @@
 <div> 
   <a href = "mailto:juliogabrielti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliogabriel-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.figma.com/proto/YYRMx9OOCK6gBxRzpx88fr/Curriculo?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2" target="_blank"><img src="https://img.shields.io/badge/-Figma-%230077B5?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 </div>
