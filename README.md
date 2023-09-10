@@ -1,5 +1,11 @@
 ## Bem-vindo(a) ao perfil do Júlio Gabriel 😊
 
+Olá, sou Julio Gabriel, um desenvolvedor movido pela curiosidade e pelo desejo constante de aprendizado. Minha trajetória tem sido marcada por uma ampla gama de projetos acadêmicos e profissionais, nos quais explorei tecnologias como HTML, CSS, JavaScript, Java, Python e dentro outras ferramentas.
+
+## Expertise 🚀
+
+Minha expertise abrange Python e Java, além de práticas ágeis como Desenvolvimento Sprint e Scrum. Minha busca constante por aprendizado impulsiona minha dedicação ao progresso tecnológico. A importância do trabalho em equipe e da comunicação eficaz sempre esteve presente em minha abordagem.
+
 </div>
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliogabriel-pe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="juliogabriel-pe github stats" />  
